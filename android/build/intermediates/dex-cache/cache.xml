@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/e012559d24bc1072259defd3e4c2272ac9e3a02e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_f3305ed61ff83393d259c8555f09e209ff8fbda7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/3af5aa699ec4790bee7cadfc3b2077f8fdb28446/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_f0a9c072bc41845f264a1a03e83155e66e780cf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/a8e41823ef20ea2a46e0316b7e33cb95331d7aab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_d9041023166c1df646deb69c27d5df623a897f98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_fb35736596c97167c409070d69f0ec30a7ba7a2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/3a8c3a6fbb64aa8873c56a8b5939818b679c5f5d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_1882c35216120867cbfc3cdb4f17ab3c52eeee9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/8e32ea4a9f4336e3df8e9c4bf9fd5d56e3d65180/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_c5cf2f534a3fc6d8df923df49233ff76d2c6491d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/Desktop/native/PlatziMusic/node_modules/react-native-fbsdk/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f90c7e695e3c486f8a900c0e97eeeaa99a7e2d55">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_a296aa75669d522d35fddb5d780b19751ce97c1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/ff0af84f6297cde234ed46024232e6bef0a7f2e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="49d6e981cef2eb91ff98aa6004fadb3bd757790d">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_43b146a43679a7fbb365d13fa7061d22dab8aaa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/8c3335f66cfe6d7081949c0099bcf2237a669abc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_23fd41423614cd9dc4ef3e74af7714764d77c411.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_25129a0032ca552088edd3546d466f4cf78b92b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/2bb7562ae49b52bd16ff85645c31a6be0dcac2c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e3b8ecc558c6deeb90eb3934c1c715128ab26dcd">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_af3eef7af31d134f080a0b9c11e2d57741ce0e38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/681cb2965a3be86f47087222551f1ecc394ac655/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="71e22619df25643022a7f7281461ef5e926141be">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_bef6ccb4adb12bb0b748921d0bbeffd7b034faff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/053782abcc791ceac5861a18b0bfc6e2e85f281e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95d97996ec624fca99f6b06ad6004c749259970d">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_74187d6e927f67e29511a6b3fd8b935e98152a98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_a9ef895b83e3468e12fc78abcec85944733045a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/bbdccd6dd5093cc0b6a1944d3e4166a28a398774/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_7086b7af31668cb8930fc862b0443828ac45c84b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/99b3ebcbac0ed84db21a64022916281962d13813/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_589306cdf3288660d2c5746e3aab7d77d2596c54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/8b39dabc56044acca5460670be41d6c162924b8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_8e32f9638dd1039f77340f97dfaea25e3c03b03c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/core-3.3.0_8c3025cccaf42f9760d910117455d9e9cc241c4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/7b4ddda789074aa2c757c6127e93e3416d66e4f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_db5b4be1d0e0131a0bb2b43b42a9367c379ca87a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_4349df9ffa25945e3eb79e5410bbfe1cb63c97b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_25129a0032ca552088edd3546d466f4cf78b92b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/e85996d6222a99e36c39ce82a84af0f5ead620b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_9a3608b6c56e192281bd1aaac25a2f91768784ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/4226106477587b478a48d7d6acffdec5e656d187/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_b94acb7692c23c855804021a43602725d925eea0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/9f3bd2fda206ac17addf152408ea23160a64fa60/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_a0aa0bb512f022be6628aa03160dc9a7d71ebb6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.2_096590579da0daf08fe95d8f9400240384af27fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/44602a0c3d8d633c2a897dd9b1331438f758fbdc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_5ae3f36866ebf72d17c6bc676b7ef1fdad7e2fb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_69124eeec9bcf81f58f1657c7b8c7a9bc7792bfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/681cb2965a3be86f47087222551f1ecc394ac655/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_f012390d3877ff5cd7561f92588cc1a07c20bbdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_ecb9059af673e06c7274799713d55200541adb4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/common-1.0.3_4f17adeb7c5dc0b8ff4a4f244a1dc379fd663f70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/59a2e83d30bf95e6c1a9eadb85bae1a9c358a46b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_c4f208a5d5de24433d4d4f5cd5f9f61721346791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/8ea1232134e857ba7b2d88139c7d55fa609a69c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_51988b06b183ecf24677e0e5abb5a3733b3ae8fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/Desktop/native/PlatziMusic/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_6b1ea0c83a8f21cbea63041e26b163075db14531.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_344cb8f36f1b1aa0190af6f98ba644dbe87b7d44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/bf305fed9d86c50b27467b65190f52a5a780fb0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="821200fa3e07f93d0ae66e4a5917db8bac69dfe1">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_37059ce030c975f0fb6006a8315338178f15c2dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ed77f7389445aa20d293d6d4c0baad88320a72c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/4ef16585d31f8695d53f04640297612bb04c3fa2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_cd4eb98d6a6d5f44f5da848cb767f63f0aa645c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/2d0b72d7e9ec1a2ff99e7ca29a5080e2a6e49501/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_56e4f3a3065f95f5a53adb2e25bf74f88074a487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_fb35736596c97167c409070d69f0ec30a7ba7a2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_4349df9ffa25945e3eb79e5410bbfe1cb63c97b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/6a6cd4088170aa05592a62f7724763c9f072f8ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_b0f0f547fa2a8212a05b2aed543ed20becb1dc2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_ecb9059af673e06c7274799713d55200541adb4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/f89492c5d014175a9e7f79bc86ae777d5e46c7c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_24eee2e0122d7c2a51da09c9c8c0ebc6f7d9aa6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/beeb6887665551ace533f8fa32cc6d6c6470b69c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_05e55ede69fee06d5decfdb38161d1bcd9c5fd9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_69124eeec9bcf81f58f1657c7b8c7a9bc7792bfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_19aa764f29309a907474a370fe9bf26019547952.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/02975775823baee1d203f4f250eb5589c52034bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_824386583da8eef32315c51fced9e9350e0cb47c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/1a564866a3c15d296aef98e1ce66992c2533c1f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_4effc75d8c643e7fbd884a54e4b82160be19da4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_344cb8f36f1b1aa0190af6f98ba644dbe87b7d44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ed77f7389445aa20d293d6d4c0baad88320a72c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/896c324cd73ff2470e409c72450ee585592848a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/Users/juannavas/Desktop/native/PlatziMusic/android/app/build/intermediates/pre-dexed/debug/classes_e1dc389c19de67ff6771a32e82833d8c921a0e0c.jar" />
+    </item>
+
+</items>

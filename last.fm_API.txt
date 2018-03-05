@@ -1,0 +1,4 @@
+Application name	platzimusic
+API key	a6a02ec6e7e023bf29c296ea5b7523ff
+Shared secret	d8867ac5fb7e700c38a5c70d928576b1
+Registered to	juannavasjn

@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/juannavas/Desktop/native/PlatziMusic/node_modules/react-native/React/Profiler/RCTProfileTrampoline-arm.S \
+  /Users/juannavas/Desktop/native/PlatziMusic/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/juannavas/Desktop/native/PlatziMusic/node_modules/react-native/React/Profiler/RCTMacros.h

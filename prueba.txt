@@ -1,0 +1,12 @@
+Cuando queremos ejecutar una lógica de código cada vez que un Componente recibe nuevas propiedades podemos hacerlo en el método
+
+
+Cuando queremos ejecutar una lógica de código cada vez que un Componente recibe nuevas propiedades podemos hacerlo en el método
+
+
+Para modificar el estado de nuestro componente de acuerdo a un nuevo valor que se actualiza en Firebase:
+
+
+A diferencia de la web, la dirección de alineado de los elementos por defecto en React Native (flexDirection) es
+
+En el enfoque híbrido...
