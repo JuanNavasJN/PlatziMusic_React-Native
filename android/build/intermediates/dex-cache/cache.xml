@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/Documents/Cursos/PlatziMusic_React-Native2/node_modules/react-native-fbsdk/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f90c7e695e3c486f8a900c0e97eeeaa99a7e2d55">
+        <dex dex="/Users/juannavas/Documents/Cursos/PlatziMusic_React-Native2/android/app/build/intermediates/pre-dexed/release/classes_4fab5772f4c777b05a29e87a8fc2d285727fb487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/e0b3d51fb78868196c1aea724d6c6f105392a420/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/juannavas/Documents/Cursos/PlatziMusic_React-Native2/android/app/build/intermediates/pre-dexed/release/infer-annotations-4.0_e9968aba5ed3f32ffa78f400c82775172e1547d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/Documents/Cursos/PlatziMusic_React-Native2/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/juannavas/Documents/Cursos/PlatziMusic_React-Native2/android/app/build/intermediates/pre-dexed/release/classes_1f6448299d7120187d27a032b6118bca45b17c49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juannavas/.android/build-cache/e0b3d51fb78868196c1aea724d6c6f105392a420/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="71e22619df25643022a7f7281461ef5e926141be">
+        <dex dex="/Users/juannavas/Documents/Cursos/PlatziMusic_React-Native2/android/app/build/intermediates/pre-dexed/release/classes_9df24ef85be56cf4cfa4d4211d57d14525a72bc5.jar" />
+    </item>
+
+</items>
